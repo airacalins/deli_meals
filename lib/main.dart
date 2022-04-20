@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
     final ThemeData theme = ThemeData();
 
     return MaterialApp(
-      // home: CategoriesScreen(),
       title: 'DeliMeals',
       routes: {
         '/': (context) => CategoriesScreen(),

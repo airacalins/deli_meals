@@ -1,6 +1,6 @@
 import '../models/category.dart';
 
-List<Category> DUMMY_CATEGORIES = const[
+List<Category> DUMMY_CATEGORIES = const [
   Category(id: "c1", title: "Breakfast", image: "./images/breakfast.jpg"),
   Category(id: "c2", title: "Snack", image: "./images/snack.jpg"),
   Category(id: "c3", title: "Pasta", image: "./images/pasta.jpg"),
