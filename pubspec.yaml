@@ -58,16 +58,16 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/images/beef.jpg
-    - assets/images/breakfast.jpg
-    - assets/images/chicken.jpg
-    - assets/images/fried.jpg
-    - assets/images/pasta.jpg
-    - assets/images/pork.jpg
-    - assets/images/snack-2.jpg
-    - assets/images/snack.jpg
-    - assets/images/veggies.jpg
+  # assets:
+  #   - assets/images/beef.jpg
+  #   - assets/images/breakfast.jpg
+  #   - assets/images/chicken.jpg
+  #   - assets/images/fried.jpg
+  #   - assets/images/pasta.jpg
+  #   - assets/images/pork.jpg
+  #   - assets/images/snack-2.jpg
+  #   - assets/images/snack.jpg
+  #   - assets/images/veggies.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -80,23 +80,23 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
-    - family: Raleway
-      fonts:
-        - asset: assets/fonts/Raleway-Regular.ttf
-        - asset: assets/fonts/Raleway-Bold.ttf
-          weight: 700
-        - asset: assets/fonts/Raleway-Black.ttf
-          weight: 900
-    - family: RobotoCondensed
-      fonts:
-        - asset: assets/fonts/RobotoCondensed-Light.ttf
-          weight: 300
-        - asset: assets/fonts/RobotoCondensed-Regular.ttf
-        - asset: assets/fonts/RobotoCondensed-Italic.ttf
-          style: italic
-        - asset: assets/fonts/RobotoCondensed-Bold.ttf
-          weight: 700
+  # fonts:
+  #   - family: Raleway
+  #     fonts:
+  #       - asset: assets/fonts/Raleway-Regular.ttf
+  #       - asset: assets/fonts/Raleway-Bold.ttf
+  #         weight: 700
+  #       - asset: assets/fonts/Raleway-Black.ttf
+  #         weight: 900
+  #   - family: RobotoCondensed
+  #     fonts:
+  #       - asset: assets/fonts/RobotoCondensed-Light.ttf
+  #         weight: 300
+  #       - asset: assets/fonts/RobotoCondensed-Regular.ttf
+  #       - asset: assets/fonts/RobotoCondensed-Italic.ttf
+  #         style: italic
+  #       - asset: assets/fonts/RobotoCondensed-Bold.ttf
+  #         weight: 700
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
